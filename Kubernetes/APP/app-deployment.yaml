@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: ertaxhixho/devops_dk:latest
+        image: ertaxh/devops_labs1:latest
         imagePullPolicy: Always
         securityContext:
           allowPrivilegeEscalation: false
